@@ -1,4 +1,4 @@
-name = Ubercart PayUMoney
+name = PayUMoney
 description = PayUMoney module for Ubercart.
 package = Ubercart - payment
 core = 7.x

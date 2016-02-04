@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * @file
+ * PayUMoney module for Ubercart.
+ */
+
+/**
+ * Implements hook_menu().
+ */
+function uc_payumoney_menu() {
+
+}
